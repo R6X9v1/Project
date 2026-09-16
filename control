@@ -1,0 +1,8 @@
+Package: com.byano.codm
+Name: byano CoDM
+Depends: mobilesubstrate, preferenceloader
+Version: 1.0-1
+Architecture: iphoneos-arm
+Description: Mod Menu for CoD: Mobile
+Maintainer: byano
+Author: byano
