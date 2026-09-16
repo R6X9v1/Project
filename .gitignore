@@ -3,3 +3,5 @@ packages/
 *.o
 *.dylib
 *.deb
+*.a
+.DS_Store
